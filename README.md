@@ -1,6 +1,8 @@
 ## <h1>Bem vindo(a) ao meu perfil!✨<h1>
   
+   <h4> Oi! Eu sou a Ana! 👩🏻‍💻</h4>
   <h4> Sou desenvolvedora de software e estudante de Engenharia da computação.</h4>
+  
   
   <h1>Minhas estatísticas no GitHub</h1>
 
