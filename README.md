@@ -1,9 +1,10 @@
 ## Welcome to my profile!✨
 
   <div>
-  <a href="https://github.com/luadeprataart">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=luadeprataart&show_icons=false&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&layout=compact&langs_count=7&theme=onedark"/>
+    <a href="https://github.com/luadeprataart">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luadeprataart&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&theme=onedark&hide_border=false&&layout=compact"/>
+  </a>
 </div>
   
   <div style="display: inline_block"  align="center"><br>
