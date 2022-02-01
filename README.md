@@ -1,4 +1,6 @@
-## Welcome to my profile!✨
+## <h1>Welcome to my profile!✨<h1>
+  
+  <h1>Minhas estatísticas no GitHub</h1>
 
   <div>
     <a href="https://github.com/luadeprataart">
