@@ -2,7 +2,7 @@
   
    <h4> Oi! Eu sou a Ana! 👩🏻‍💻</h4>
   <h4> Sou desenvolvedora de software e estudante de Engenharia da computação.</h4>
-  <h4> Confira meu Portfolio clicando <a href="https://luadeprataart.github.io/Portfolio/"> AQUI </a> !</h4>
+  <h4> Confira meu Portfolio clicando <a href="https://luadeprataart.github.io/Portfolio/" target="_blank"> AQUI </a> !</h4>
   
   
   <h1>Minhas estatísticas no GitHub</h1>
