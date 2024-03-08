@@ -1,4 +1,7 @@
-## <h1>Bem vindo(a) ao meu perfil!✨<h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ana+Julia+Moreas!;✨" />
+</h1>
   
    <h4> Oi! Eu sou a Ana! 👩🏻‍💻</h4>
   <h4> Sou desenvolvedora de software e estudante de Engenharia da computação.</h4>
