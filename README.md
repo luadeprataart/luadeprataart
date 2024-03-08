@@ -37,7 +37,7 @@
 
 
 
- ![Snake animation](https://github.com/luadeprataart/luadeprataart/blob/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/morlupib/morlupib/output/github-contribution-grid-snake.svg" />
   
   ##
   
