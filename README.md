@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ana+Julia+Moreas!;✨" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=E88CF7&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ana+Julia+Moraes!;✨" />
 </h1>
   
    <h4> Oi! Eu sou a Ana! 👩🏻‍💻</h4>
