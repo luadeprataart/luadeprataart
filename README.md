@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=F2DEDC&width=200&height=50&duration=5000&lines=Hi+There!;+I'm+Ana+Julia+Moraes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=F2DEDC&width=200&height=20&duration=5000&lines=Hi+There!;+I'm+Ana+Julia+Moraes!;" />
 </h1>
   
   <h4> Olá! Eu sou a Ana! 👩🏻‍💻</h4>
