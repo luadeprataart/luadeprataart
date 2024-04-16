@@ -1,9 +1,9 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8C2B3D&text=Welcome%20to%20my%20Github%20Profile!&reversal=false&fontColor=F2DEDC&animation=fadeIn&fontSize=50&fontAlignY=40&fontAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8C2B3D&text=Welcome%20to%20my%20Github%20Profile!&reversal=false&fontColor=F2DEDC&animation=fadeIn&fontSize=50&fontAlignY=40&fontAlign=50"/>
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=F2DEDC&width=200&height=20&duration=5000&lines=Hi+There!;+I'm+Ana+Julia+Moraes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=F2DEDC&width=200&height=40&duration=5000&lines=Hi+There!;+I'm+Ana+Julia+Moraes!;" />
 </h1>
   
   <h4> Olá! Eu sou a Ana! 👩🏻‍💻</h4>
