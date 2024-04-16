@@ -18,28 +18,26 @@
  - 🛠️ Especializada em desenvolvimento de sistemas embarcados.
 
  - ❤️ Apaixonada por resolver problemas complexos e otimizar código.
-  
 
-<h2>Minhas estatísticas no GitHub</h2>
   <div>
+    <h2>Minhas estatísticas no GitHub</h2>
     <a href="https://github.com/luadeprataart">
     <img width="50%" height="150em" src="https://github-readme-stats.vercel.app/api?username=luadeprataart&count_private=true&include_all_commits=true&show_icons=false&theme=rose&rank_icon=github&hide_border=false&show_owner=true"/>
-    <img align="left" width="50%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&theme=rose&hide_border=false&&layout=compact"/>
+    <img width="50%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&theme=rose&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
   
 
   <div><br>
-
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
-      <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
-    <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg">
   </div>
   
 ##
