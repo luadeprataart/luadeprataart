@@ -19,11 +19,11 @@
 
  - ❤️ Apaixonada por resolver problemas complexos e otimizar código.
 
-  <div>
+  <div width="100%">
     <h2>Minhas estatísticas no GitHub</h2>
     <a href="https://github.com/luadeprataart">
-    <img width="50%" height="150em" src="https://github-readme-stats.vercel.app/api?username=luadeprataart&count_private=true&include_all_commits=true&show_icons=false&theme=rose&rank_icon=github&hide_border=false&show_owner=true"/>
-    <img width="50%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&theme=rose&hide_border=false&&layout=compact"/>
+    <img align="left" width="50%" height="150em" src="https://github-readme-stats.vercel.app/api?username=luadeprataart&count_private=true&include_all_commits=true&show_icons=false&theme=rose&rank_icon=github&hide_border=false&show_owner=true"/>
+    <img align="left" width="50%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&theme=rose&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
