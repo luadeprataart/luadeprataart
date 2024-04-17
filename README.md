@@ -21,14 +21,7 @@
 
  - ❤️ Apaixonada por resolver problemas complexos e otimizar código.
 
-<h2>Minhas estatísticas no GitHub</h2>
-<div style="display: flex;" align="center">
- <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=luadeprataart&count_private=true&include_all_commits=true&show_icons=false&theme=rose&rank_icon=github&hide_border=false&show_owner=true"/>
- <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&theme=rose&hide_border=false&&layout=compact"/>
-</div>
-
-
-<br><br>  
+    
 <h2>Languages and Tools</h2>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
@@ -42,10 +35,19 @@
     <img alt="Espressif" width="50" src="https://simpleicons.vercel.app/espressif/D90404" />
     <img alt="STM" width="50" src="https://simpleicons.vercel.app/stmicroelectronics/242BA6" />
     <img alt="Siemens PLC" width="50" src="https://simpleicons.vercel.app/siemens/038C7F" />
+	<img alt="KiCad" width="50" src="https://simpleicons.vercel.app/kicad/2E4CA6" />
 	<img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/b3064b7a-2027-4b95-b1c8-0b4a99e0b0b1" alt="MQTT" title="MQTT"/></code>
 	<img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe" alt="Mosquitto" title="Mosquitto"/>
-	<img alt="KiCad" width="50" src="https://simpleicons.vercel.app/kicad/2E4CA6" />
 	
+	
+</div>
+
+<br><br> 
+
+<h2>Minhas estatísticas no GitHub</h2>
+<div style="display: flex;" align="center">
+ <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=luadeprataart&count_private=true&include_all_commits=true&show_icons=false&theme=rose&rank_icon=github&hide_border=false&show_owner=true"/>
+ <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadeprataart&theme=rose&hide_border=false&&layout=compact"/>
 </div>
   
 
