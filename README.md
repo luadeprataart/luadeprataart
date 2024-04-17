@@ -61,7 +61,7 @@
   />
 </picture>
 
-<br><br><br>
+<br><br>
 
 <div align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&repeat=false&color=F2DEDC&width=200&height=20&duration=5000&lines=Minhas+Redes:;" />
@@ -70,8 +70,6 @@
     <a  href="https://www.linkedin.com/in/ana-julia-moraes-3028091b7/"><img alt="LinkedIn" width="35px" src="https://simpleicons.now.sh/linkedin/F2DEDC" /></a>   
     <a  href="mailto:anaju1002@yahoo.com.br"><img alt="LinkedIn" width="35px" src="https://simpleicons.vercel.app/minutemailer/F2DEDC" /></a>
 </div>
-
-
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=8C2B3D&section=footer"/>
