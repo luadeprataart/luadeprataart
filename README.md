@@ -42,6 +42,8 @@
     <img alt="Siemens PLC" width="50" src="https://simpleicons.vercel.app/siemens/038C7F" />
 	<img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/b3064b7a-2027-4b95-b1c8-0b4a99e0b0b1" alt="MQTT" title="MQTT"/></code>
 	<img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe" alt="Mosquitto" title="Mosquitto"/>
+	<img alt="KiCad" width="50" src="https://simpleicons.vercel.app/kicad/D90404" />
+	
 </div>
   
 ##
