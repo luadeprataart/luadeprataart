@@ -26,18 +26,23 @@
 </div>
 
 
-  
-
-  <div><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg">
-  </div>
+<br><br>  
+<h2>Languages and Tools</h2>
+<div align="center">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/>
+	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
+    <img alt="Espressif" width="50" src="https://simpleicons.vercel.app/espressif/D90404" />
+    <img alt="STM" width="50" src="https://simpleicons.vercel.app/stmicroelectronics/242BA6" />
+    <img alt="Siemens PLC" width="50" src="https://simpleicons.vercel.app/siemens/038C7F" />
+	<img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/b3064b7a-2027-4b95-b1c8-0b4a99e0b0b1" alt="MQTT" title="MQTT"/></code>
+	<img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe" alt="Mosquitto" title="Mosquitto"/>
+</div>
   
 ##
 <br>
@@ -59,13 +64,18 @@
 <br><br><br>
 
 <div align="center"> 
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&repeat=false&color=F2DEDC&width=200&height=20&duration=5000&lines=Minhas+Redes:;" />
-    </h1>
-    <a href="https://www.linkedin.com/in/ana-julia-moraes-3028091b7/"><img src="/imgs/linkedin.svg" width="45" height="45" style="background-color:#F2DEDC;"/></a>
-    <a href="mailto:anaju1002@yahoo.com.br"><img src="/imgs/minutemailer.svg" width="45" height="45" background-color="#F2DEDC"/></a>
-    
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&repeat=false&color=F2DEDC&width=200&height=20&duration=5000&lines=Minhas+Redes:;" />
 </div>
+<div align="center"> 
+    <a  href="https://www.linkedin.com/in/ana-julia-moraes-3028091b7/"><img alt="LinkedIn" width="35px" src="https://simpleicons.now.sh/linkedin/F2DEDC" /></a>   
+    <a  href="mailto:anaju1002@yahoo.com.br"><img alt="LinkedIn" width="35px" src="https://simpleicons.vercel.app/minutemailer/F2DEDC" /></a>
+</div>
+
+
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=8C2B3D&section=footer"/>
+</p>
 
 
 
