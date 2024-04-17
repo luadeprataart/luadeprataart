@@ -3,6 +3,8 @@
 </p>
 
 <h1 align="center">
+    <img width="30" src="https://simpleicons.vercel.app/kofi/F2DEDC" />
+    <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&color=F2DEDC&width=200&height=40&duration=5000&lines=Hi+There!;+I'm+Ana+Julia+Moraes!;" />
 </h1>
   
@@ -46,8 +48,13 @@
 	
 </div>
   
-##
+
+<br><br>
+<div align="center"> 
+<img width="200" src="https://simpleicons.vercel.app/trino/F2DEDC" />
+</div>
 <br>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
